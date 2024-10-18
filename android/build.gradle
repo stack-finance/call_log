@@ -1,4 +1,4 @@
-group 'sk.fourq.calllog'
+group 'co.stackfinance.calllog'
 version '1.0-SNAPSHOT'
 
 buildscript {

@@ -32,7 +32,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "sk.fourq.calllogexample"
+        applicationId "co.stackfinance.calllogexample"
         minSdkVersion 16
         targetSdkVersion 31
         versionCode flutterVersionCode.toInteger()

@@ -1,4 +1,4 @@
-package sk.fourq.calllog;
+package co.stackfinance.calllog;
 
 import android.Manifest;
 import android.annotation.TargetApi;
